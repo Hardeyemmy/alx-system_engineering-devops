@@ -1,2 +1,6 @@
 #!/bin/bash
 chmod 753
+[main 68296f3] setting the mode
+ 2 files changed, 4 insertions(+)
+ create mode 100755 0x01-shell_permissions/8-James_Bond
+ create mode 100755 0x01-shell_permissions/9-John_Doe
